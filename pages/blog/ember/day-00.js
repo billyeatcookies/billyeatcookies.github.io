@@ -241,6 +241,14 @@ In XAML UWP apps, we will use a byte[] array that will act as our dynamic <b>bac
 						
 					</div>
 				</div>
+				<script src="https://utteranc.es/client.js"
+					repo="billyeatcookies/Ember"
+					issue-term="pathname"
+					label="Discussions"
+					theme="github-light"
+					crossorigin="anonymous"
+					async>
+				</script>
 				<Footer />
 			</div>
 		)
